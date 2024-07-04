@@ -1,0 +1,39 @@
+
+.container{
+    /* border: 2px solid black; */
+    text-align: center;
+}
+
+h1{
+    background: #000;
+    color: rgb(224, 226, 237);
+    font-size: 3rem;
+    
+}
+h2{
+    font-size: 2.4rem;
+    font-family: cursive;
+    text-decoration: underline rgb(49, 210, 242);
+}
+input{
+    width: 2rem;
+    margin:1rem ;
+    margin-top: -0.2rem;
+}
+.A,.B{
+    background-color: rgb(241, 230, 232);
+    margin-top: -0.8rem;
+}
+.btn{
+    margin: -2.5rem 0rem 4.3rem 0rem;
+}
+#btn {
+        margin: -3rem;
+}
+.result{
+    height: 35vh;
+    margin: -3.5rem;
+}    
+.result>.container{
+    background: rgb(187, 228, 250);
+}
